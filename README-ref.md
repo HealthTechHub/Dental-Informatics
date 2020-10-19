@@ -8,7 +8,7 @@
 
 [OpenCV - Histogram Equalization](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html)
 
-[]()
+[Histogram equalization: Improve the contrast of your image!](https://medium.com/@urveeausekar/histogram-equalization-improve-the-contrast-of-your-image-59748752102b)
 
 []()
 
