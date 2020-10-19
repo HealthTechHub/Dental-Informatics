@@ -4,10 +4,11 @@ Article - https://docs.google.com/document/d/1JMkjfoRMOdDcRJ57uPjMxevifhb0WHwIXr
 
 # Motivação
 
-A motivação para o desenvolvimento e manutenção desse projeto é poder promover a disseminação do uso da informática entre os estudantes, 
+> A motivação para o desenvolvimento e manutenção desse projeto é poder promover a disseminação do uso da informática entre os estudantes, 
 professores e profissionais de odontologia. Cada um desses grupos de usuários possuem demandas específicas e por isso podem interpretar 
 o sujeito da informática na Odontologia segundo a luz de suas necessidades e/ou de acordo com as informações 
 que possuem sobr eo tema.
+
 # Eventos tecnológicos na Odontologia
 
 1. [THE INTERNATIONAL DENTAL SHOW – LEADING TRADE FAIR FOR THE DENTAL INDUSTRY](https://www.english.ids-cologne.de/)
