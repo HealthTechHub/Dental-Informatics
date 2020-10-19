@@ -5,9 +5,9 @@ Article - https://docs.google.com/document/d/1JMkjfoRMOdDcRJ57uPjMxevifhb0WHwIXr
 # Motivação
 
 > A motivação para o desenvolvimento e manutenção desse projeto é poder promover a disseminação do uso da informática entre os estudantes, 
-professores e profissionais de odontologia. Cada um desses grupos de usuários possuem demandas específicas e por isso podem interpretar 
+professores e profissionais de odontologia. Cada um desses grupos de usuários possui demandas específicas e por isso pode interpretar 
 o sujeito da informática na Odontologia segundo a luz de suas necessidades e/ou de acordo com as informações 
-que possuem sobr eo tema.
+que possuem sobre o tema. Por isso a interpretação é muito variada e muitas vezes superficial.
 
 # Eventos tecnológicos na Odontologia
 
