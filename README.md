@@ -119,3 +119,6 @@ To the extent possible under law, [Matias Singers](https://mts.io) has waived al
 [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 
 
+Follow the Real State trends. There are new spots to open dental clinics
+[nationalmortgagenews](https://www.nationalmortgagenews.com/)
+(zillow)[https://www.zillow.com/]
