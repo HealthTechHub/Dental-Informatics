@@ -26,3 +26,6 @@
 10. **Patient attrition**. The patient attrition rate refers to the number of patients a practice loses on an annual basis. In 2017, the author's firm conducted a study that focused on highly successful practices. Such a practice was defined as one that produces $1 million or more per year, not including hygiene. The study found that the average attrition rate in highly successful practices was 7% less than the average attrition rate in all other practices.
 
 11. **Staff labor percentage**. The staff labor percentage is a category of overhead, but it should be considered as an independent KPI because labor is the single largest expense in a practice. The author's firm targets the staff labor percentage in general practice at 25%, orthodontics at 19%, pediatric dentistry at 19%, oral and maxillofacial surgery at 18% excluding registered nurses, periodontal at 25%, and endodontics at 18%.
+
+
+[Key performance indicators for dental practices: Management by statistics](https://www.dentaleconomics.com/practice/article/16386298/key-performance-indicators-for-dental-practices-management-by-statistics)
