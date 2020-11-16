@@ -15,10 +15,9 @@ Article - https://docs.google.com/document/d/1JMkjfoRMOdDcRJ57uPjMxevifhb0WHwIXr
 1. [Healthcare Sensor Innovations](https://www.idtechex.com/healthcare-sensor-innovations-usa/show/en/)
 
 
+# Dental Informaticist
+
 [Dental Informaticist](https://explorehealthcareers.org/career/informatics/dental-informaticist/#:~:text=Dental%20informatics%20specialists%20look%20for,new%20ideas%2C%20systems%20and%20approaches.)
-
-
-Dental Informaticist
 AVERAGE SALARY
 $85k - 110k
 YEARS HIGHER EDUCATION
