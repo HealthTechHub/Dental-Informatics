@@ -68,3 +68,7 @@ The American Medical Informatics Association maintains a comprehensive list of a
 Resources
 American Dental AssociationAmerican Dental Education AssociationAmerican Medical Informatics Association
 The American Medical Informatics Association has reviewed this profile.
+
+
+# [Dental informatics. A cornerstone of dental practice](https://pubmed.ncbi.nlm.nih.gov/11367964/)
+
