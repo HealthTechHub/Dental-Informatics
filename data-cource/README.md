@@ -1,0 +1,1 @@
+[Trip is a clinical search engine designed to allow users to quickly and easily find and use high-quality research evidence to support their practice and/or care.](https://www.tripdatabase.com/how-to-use-trip)
