@@ -13,6 +13,8 @@
 2. [Biostars](https://www.biostars.org/)
     * [Jobs](https://www.biostars.org/t/Jobs/)
 3. [Embl](https://www.embl.de/index.php)
-    * [Jobs](https://www.embl.de/jobs/searchjobs/index.php?newlang=1&loc=0&pos%5B%5D=0&srch_trm=&list=Search)   
+    * [Jobs](https://www.embl.de/jobs/searchjobs/index.php?newlang=1&loc=0&pos%5B%5D=0&srch_trm=&list=Search)
+4. [Science Careers](https://jobs.sciencecareers.org/)
+    * [Bioinformatics jobs in United States](https://jobs.sciencecareers.org/jobs/bioinformatics/united-states/)
 
 
