@@ -1,4 +1,4 @@
-# dental-data-analysis
+# DSOs - Data Analysis for the Dental Market
 
 
 [Markdown Guide](https://www.markdownguide.org/)
