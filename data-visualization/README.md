@@ -59,6 +59,7 @@ What kind of data do you ***want to display in the chart***?
 2. Categoric
 3. Numeric and Categoric
 4. Maps
+    * https://www.d3-graph-gallery.com/backgroundmap
 5. Network
 6. Time Series
 
