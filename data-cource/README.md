@@ -16,5 +16,9 @@
     * [Jobs](https://www.embl.de/jobs/searchjobs/index.php?newlang=1&loc=0&pos%5B%5D=0&srch_trm=&list=Search)
 4. [Science Careers](https://jobs.sciencecareers.org/)
     * [Bioinformatics jobs in United States](https://jobs.sciencecareers.org/jobs/bioinformatics/united-states/)
+5. [Glassdoor](https://www.glassdoor.com/index.htm)
+    * [US Entry Level Bioinformatics Jobs](https://www.glassdoor.com/Job/us-entry-level-bioinformatics-jobs-SRCH_IL.0,2_IN1_KO3,29.htm)
+6. [Indeed](https://www.indeed.com/?from=gnav-jobsearch--jasx)
+    * [Bioinformatics jobs in United States - Indeed](https://www.indeed.com/jobs?q=bioinformatics&l=United+States&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt)    
 
 
