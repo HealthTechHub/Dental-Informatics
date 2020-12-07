@@ -63,6 +63,6 @@ https://joindso.com/careers/
 - []()
 - []()
 - []()
-- []()
+- [How COVID-19 is reshaping China’s medtech industry](https://www.mckinsey.com/featured-insights/china/how-covid-19-is-reshaping-chinas-medtech-industry)
 - [What the Pandemic Means for Health Care’s Digital Transformation](https://hbr.org/2020/12/what-the-pandemic-means-for-health-cares-digital-transformation)
 - [OdontoPrev (ODPV3)](https://comoinvestir.thecap.com.br/odontoprev-odpv3-pagara-r-83-1-milhoes-de-dividendos-em-outubro/)
