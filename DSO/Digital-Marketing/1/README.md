@@ -1,7 +1,7 @@
 # New Patient Acquisition and the ROI of Digital Marketing for Dentists
 
 
-[Return to DSO/](https://github.com/igoralves1/Dental-Informatics/tree/main/DSO)
+[Return to DSO/](https://github.com/igoralves1/Dental-Informatics/tree/main/DSO#digital-markting-for-dentists)
 
 Adept Marketing works with a range of businesses looking to achieve growth through digital marketing - ecommerce retailers, non-profits, professional services firms and more - and they all want to know about ROI.
 One segment Adept works with a lot is dental practices. In fact, over the years Adept has worked with hundreds of practices. Many of these dentists are starting to use digital marketing, but aren't always sure how the money they spend translates into value for them. That's what this article will explain.
