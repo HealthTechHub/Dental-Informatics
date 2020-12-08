@@ -14,7 +14,7 @@
 
 5 - [American Association for Public Opinion Research](https://www.aapor.org/)
 
-6 - [New Patient Acquisition and the ROI of Digital Marketing for Dentists](https://blog.adeptmarketing.com/new-patient-acquisition-and-the-roi-of-digital-marketing-for-dentists/)
+6 - 
 
 7 - []()
 
@@ -28,6 +28,9 @@ https://joindso.com/careers/
 
 # Digital Markting for Dentists
 1 - [How Can Dentists Measure the ROI of Digital Marketing Campaigns](https://profitable-dentistry.com/roi-of-dental-marketing/)
+2 - [New Patient Acquisition and the ROI of Digital Marketing for Dentists](https://blog.adeptmarketing.com/new-patient-acquisition-and-the-roi-of-digital-marketing-for-dentists/)
+
+x - []()
 
 # Most DSOs List:
 
