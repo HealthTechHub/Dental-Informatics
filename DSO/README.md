@@ -33,6 +33,7 @@ https://joindso.com/careers/
 1 - [How Can Dentists Measure the ROI of Digital Marketing Campaigns](https://profitable-dentistry.com/roi-of-dental-marketing/)
 
 2 - [New Patient Acquisition and the ROI of Digital Marketing for Dentists](https://blog.adeptmarketing.com/new-patient-acquisition-and-the-roi-of-digital-marketing-for-dentists/)
+>What's the ***Return on Investment*** (ROI) of digital marketing? It's something every business wants to know. Here we help you to understand what goes into this calculation.
 
 x - []()
 
