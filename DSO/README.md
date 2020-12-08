@@ -13,7 +13,7 @@
 4 - [Which Dental Groups Practices, DSOs, And Dental Companies Made Inc. 5000’S 2019 List?](https://groupdentistrynow.com/dso-group-blog/which-dental-groups-practices-dsos-and-dental-companies-made-inc-5000s-2019-list/)
 
 5 - [American Association for Public Opinion Research](https://www.aapor.org/)
-6 - []()
+6 - [New Patient Acquisition and the ROI of Digital Marketing for Dentists](https://blog.adeptmarketing.com/new-patient-acquisition-and-the-roi-of-digital-marketing-for-dentists/)
 7 - []()
 8 - []()
 9 - []()
