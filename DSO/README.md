@@ -26,6 +26,9 @@ https://joindso.com/careers/
 
 [dso Dental Industry USA list](https://www.google.com/search?q=dso+Dental+Industry+USA+list&oq=dso+Dental+Industry+USA+list&aqs=chrome..69i57j33l2.6184j0j7&sourceid=chrome&ie=UTF-8)
 
+# Digital Markting for Dentists
+1 - [How Can Dentists Measure the ROI of Digital Marketing Campaigns](https://profitable-dentistry.com/roi-of-dental-marketing/)
+
 # Most DSOs List:
 
 - [Midway Dental Supply](https://www.inc.com/profile/midway-dental-supply)
