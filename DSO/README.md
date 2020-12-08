@@ -4,6 +4,7 @@
 [Markdown Guide](https://www.markdownguide.org/)
 
 
+## DSO (What is it? What is it for? How/Where are they distributed?)
 1 - [Dental Service Organizations - Wiki](https://en.wikipedia.org/wiki/Dental_Service_Organizations)
 
 2 - [How the DSO Dental Model Impacts the Dental Industry](https://www.planetdds.com/blog/how-the-dso-dental-model-impacts-the-dental-industry)
