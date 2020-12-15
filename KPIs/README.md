@@ -29,3 +29,7 @@
 
 
 [Key performance indicators for dental practices: Management by statistics](https://www.dentaleconomics.com/practice/article/16386298/key-performance-indicators-for-dental-practices-management-by-statistics)
+
+
+[avadent](http://education.avadent.com/)
+[orca-ai](https://www.orca-ai.com/)
