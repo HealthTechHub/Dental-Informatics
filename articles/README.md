@@ -1,3 +1,8 @@
+[Understanding adversarial examples requires a theory of artefacts for deep learning](https://www.nature.com/articles/s42256-020-00266-y.epdf?sharing_token=AXS_MsZfvS8gFZtAJlIOq9RgN0jAjWel9jnR3ZoTv0PIZwnfXXIXpRQcD8xNIztDgZC5kD2o055PXQPDNV8KY1LuP1rScFebb1ZGCMg0qXYLzlK3fcTeCCGN-fHk0QiLTzxj_VmBnCpW77ZZ_BFvGrZd09ducRIIkPNN0-HeD1c%3D)
+>Deep neural networks are currently the most widespread and successful technology in artificial intelligence. However, these systems exhibit bewildering new vulnerabilities: most notably a susceptibility to adversarial examples. Here, I review recent empirical research on adversarial examples that suggests that deep neural networks may be detecting in them features that are predictively useful, though inscrutable to humans. To understand the implications of this research, we should contend with some older philosophical puzzles about scientific reasoning, helping us to determine whether these features are reliable targets of scientific investigation or just the distinctive processing artefacts of deep neural networks.
+
+
+
 [Repp Health Uses AWS to Track Medical Assets to Within 10 Centimeters](https://aws.amazon.com/pt/solutions/case-studies/repp-health-case-study/)
 > sing number of devices used in medical procedures, patients must often wait while hospital employees search for equipment, open beds, and key personnel. The patient frustration and harm that can result would be reason enough for hospitals to seek intelligent monitoring of the movements and locations of people and equipment.
 >
