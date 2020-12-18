@@ -19,7 +19,9 @@ Following the passage of the Affordable Care Act and the recent expansion of Med
 
 6 - 
 
-7 - []()
+7 - [Dental Practice Success: 4 Tips To Close Out The Year Strong](https://www.offthecusp.com/dental-practice-success-4-tips-to-close-out-the-year-strong/)
+8 - [Tech Insights: 3 Winning Technologies For Dentists During COVID-19](https://www.offthecusp.com/tech-insights-3-winning-technologies-for-dentists-during-covid-19/)
+9 - []()
 
 
 https://joindso.com/careers/
