@@ -33,3 +33,4 @@
 
 [avadent](http://education.avadent.com/)
 [orca-ai](https://www.orca-ai.com/)
+[data-driven-dentistry](https://www.oralhealthgroup.com/data-driven-dentistry/)
