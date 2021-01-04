@@ -33,6 +33,5 @@
 
 [avadent](http://education.avadent.com/)
 [orca-ai](https://www.orca-ai.com/)
-[data-driven-dentistry](https://www.oralhealthgroup.com/data-driven-dentistry/)
-[Markets
-Position bolstered, addressable market expanded](https://www.straumann.com/group/en/discover/annualreport/2017/management-commentary/markets.html)
+[data-driven-dentistry](https://www.oralhealthgroup.com/data-driven-dentistry/)  
+[Markets Position bolstered, addressable market expanded](https://www.straumann.com/group/en/discover/annualreport/2017/management-commentary/markets.html)
