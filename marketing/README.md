@@ -11,3 +11,6 @@ https://flowingdeals.com/articles/Health/21?utm_source=fb&utm_medium=Facebook_De
 [oralhealthgroup](https://www.oralhealthgroup.com/)
 
 [data-driven-dentistry](https://www.oralhealthgroup.com/data-driven-dentistry/)
+
+
+[Teledentistry Soluion - pgs 8-10](http://emag.printgraphics.com.au/Clear-Idea-4/16/)
