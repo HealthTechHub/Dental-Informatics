@@ -14,3 +14,7 @@ https://flowingdeals.com/articles/Health/21?utm_source=fb&utm_medium=Facebook_De
 
 
 [Teledentistry Soluion - pgs 8-10](http://emag.printgraphics.com.au/Clear-Idea-4/16/)
+
+
+
+[Forbies 40-under-40](https://fortune.com/40-under-40/)
