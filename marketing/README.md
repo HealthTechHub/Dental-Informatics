@@ -18,3 +18,7 @@ https://flowingdeals.com/articles/Health/21?utm_source=fb&utm_medium=Facebook_De
 
 
 [Forbies 40-under-40](https://fortune.com/40-under-40/)
+
+
+[Pew Research Center](https://www.pewresearch.org/)  
+[Morning Consult](https://morningconsult.com/)
