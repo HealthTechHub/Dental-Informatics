@@ -21,4 +21,7 @@ https://flowingdeals.com/articles/Health/21?utm_source=fb&utm_medium=Facebook_De
 
 
 [Pew Research Center](https://www.pewresearch.org/)  
+
 [Morning Consult](https://morningconsult.com/)
+
+[First Draft](https://firstdraftnews.org/latest/the-broadcast-model-no-longer-works-in-an-era-of-disinformation/)
