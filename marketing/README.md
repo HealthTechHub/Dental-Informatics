@@ -27,3 +27,5 @@ https://flowingdeals.com/articles/Health/21?utm_source=fb&utm_medium=Facebook_De
 [First Draft](https://firstdraftnews.org/latest/the-broadcast-model-no-longer-works-in-an-era-of-disinformation/)
 
 [Business Wire](https://www.businesswire.com/news/home/20210119005927/en/Seven-DDS-Dentures-Implant-Solutions-practices-in-Texas-rebrand-to-Affordable-Dentures-Implants)
+
+https://www.dentistrytoday.com/news/ai-in-dentistry/item/7746-ask-the-expert-sergei-azernikov-on-ai-in-the-dental-lab-more
