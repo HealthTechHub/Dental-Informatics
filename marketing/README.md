@@ -31,4 +31,5 @@ https://flowingdeals.com/articles/Health/21?utm_source=fb&utm_medium=Facebook_De
 https://www.dentistrytoday.com/news/ai-in-dentistry/item/7746-ask-the-expert-sergei-azernikov-on-ai-in-the-dental-lab-more
 
 [socialbearing](https://socialbearing.com/)
+
 [datasift](https://datasift.com/)
