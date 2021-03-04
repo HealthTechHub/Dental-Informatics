@@ -33,3 +33,5 @@ https://www.dentistrytoday.com/news/ai-in-dentistry/item/7746-ask-the-expert-ser
 [socialbearing](https://socialbearing.com/)
 
 [datasift](https://datasift.com/)
+
+[HPI poll: Dentists see increased prevalence of stress-related oral health conditions](https://www.ada.org/en/publications/ada-news/2021-archive/march/hpi-poll-dentists-see-increased-prevalence-of-stress-related-oral-health-conditions)
