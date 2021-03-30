@@ -35,3 +35,5 @@ https://www.dentistrytoday.com/news/ai-in-dentistry/item/7746-ask-the-expert-ser
 [datasift](https://datasift.com/)
 
 [HPI poll: Dentists see increased prevalence of stress-related oral health conditions](https://www.ada.org/en/publications/ada-news/2021-archive/march/hpi-poll-dentists-see-increased-prevalence-of-stress-related-oral-health-conditions)
+
+[Google vai pagar globalmente por notícias... - Veja mais em https://www.uol.com.br/tilt/noticias/redacao/2021/03/30/google-nos-vemos-como-uma-grande-banca-de-jornal-do-mundo.htm?cmpid=copiaecola](https://www.uol.com.br/tilt/noticias/redacao/2021/03/30/google-nos-vemos-como-uma-grande-banca-de-jornal-do-mundo.htm)
