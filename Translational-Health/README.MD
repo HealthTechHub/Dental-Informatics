@@ -16,7 +16,7 @@ Scientific translation happens along a spectrum: from bench to bedside and on to
 ```
 For More Information
 About Translation
-ncats.nih.gov/translation
+[ncats.nih.gov](ncats.nih.gov/translation)
 About NCATS
 ncats.nih.gov/about
 NCATS Programs
