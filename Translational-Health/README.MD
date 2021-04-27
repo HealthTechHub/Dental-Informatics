@@ -26,5 +26,5 @@ info@ncats.nih.gov
 301-435-0888
 ```
 
-# Intro Translational Science
+# Intro Translational Science (COURSERA)
 [Intro Translational Science](https://www.coursera.org/learn/intro-translational-science/home/welcome)
