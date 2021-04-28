@@ -1,0 +1,55 @@
+Data Governance Analyst - Level 2 (Remote)
+333 Rue Chabanel O, Montréal, QC H2N 2G1, Canada
+Full-time
+Company Description
+SSENSE, pronounced [es-uhns], is a Montreal-based fashion platform with global reach. Founded in 2003, SSENSE is pacing the vanguard of directional retail with a mix of luxury, streetwear, and avant-garde labels. We produce industry-leading original content and take pride in building our own technology solutions and systems from scratch. Our field of focus has grown beyond that of a typical e-commerce entity as we explore the nexus of content, commerce, and culture.
+
+Currently serving 150 countries, generating an average of 88 million monthly page views, and achieving high double digit annual growth since inception, SSENSE is becoming a cultural protagonist in its own right.
+
+Job Description
+SSENSE is looking for an experienced Data Analyst to join our rapidly growing technology team. As a Data Analyst, you will design and influence the next generation of the data governance at SSENSE with a focus on privacy and operational excellence. You will design and maintain a data governance catalogue that will help inform how our business, product, and development teams develop privacy solutions to protect customer data. The ideal candidate has a strong background in building, maintaining, and drawing insights from a data governance catalogue, experience with privacy, governance, and compliance technology solutions, as well as business acumen.
+
+RESPONSIBILITIES
+
+Customer Data Mapping - 20%
+
+Work with Product Manager to develop customer data catalogue templates and interview guides that can be used to document data inputs and outputs, storage, entities, systems, type and purpose of processing, as well as prevalence of privacy controls for all services that use customer data
+Work with Product Managers to interview Technology Leads on Technology delivery teams, catalogue customer personal data flow across all microservices and legacy systems based on interview responses, as well as document supporting information regarding the data’s purpose and processing
+Explore databases (relational and non-relational) through SQL queries or other means to audit, validate and enrich the catalogue of customer personal data.
+Work with Product Managers, Technology delivery teams, privacy, and security specialists to identify and prioritize opportunities to secure movement and storage of customer personal data across the customer data lifecycle based on data catalogue observations
+Data Governance - 80%
+
+Define and prioritize broader data governance use cases in collaboration with Data Operations leaders to plan for increased efficiency and comprehensiveness in tracking data lineage and reporting on data quality metadata
+Collaborate with Data Operations team members to compare data governance tools that can address use cases (e.g. Collibra), down select and procure best option, support in implementing the tool, as well as develop and maintain an enterprise data governance catalogue
+Support Technology and Business teams by answering questions and providing data quality insights related to the data governance catalogue
+Qualifications
+Bachelor’s degree in Engineering, Mathematics, Statistics, or related field
+2+ years of experience in mapping data provenance (e.g. records of the inputs, entities, systems, and processes that influence data) to build a data catalogue
+2+ years of experience cataloguing data and metadata with a data governance tool (e.g. Collibra) to track data quality is highly preferred
+Excellent programming skills using SQL
+Experience with other data manipulation technology an asset
+Experience with data privacy regulations (e.g. GDPR, CCPA, Bill 64, etc.) and/or data governance is highly preferred
+Experience working with data visualization tools such as Tableau or similar data discovery and visualization tools
+SKILLS
+
+ 
+
+Strong Communication, Analytical and Presentation skills
+Ability to influence and drive change
+Team player with a high sense of accountability and ownership
+Solution-oriented mindset and can-do attitude to overcome challenges
+Ability to thrive in a fast-paced environment and master frequently changing web technologies and techniques
+Additional Information
+​​​​​​WORLD-CLASS TECHNOLOGY 
+
+Technology is at the core of everything we do at SSENSE. Driven by an engineering mindset and a problem-solving attitude, we blend fashion with technology to deliver an unparalleled experience to our customers as we build seamless, custom solutions to deliver the SSENSE offering. 
+
+WORLD-CLASS TEAM
+
+The SSENSE tech team consists of over 250 members responsible for an international headless commerce platform. Working in an agile environment, our squads are made up of experienced innovators in Product Management, QA, Design, DevOps, Software Development, Data Engineering, and Security. Headquartered in Montreal, our technology organization has been growing at a rate of 2X year-over-year and is doubling once again in 2021 as we expand across Canada, US, and Europe.  
+
+WORLD-CLASS PLATFORM 
+
+The SSENSE platform runs on Amazon Web Services making use of serverless microservices across web, mobile and app. Our event-source architecture already achieves over 10,000 requests / second and growing at an unmatched pace, currently unseen across the industry.  Our data-driven culture of innovation empowers every product team across the tech organization to explore building, testing and learning with the latest in Machine Learning techniques. Our automated continuous improvement DevOps model (making use of both blue / green and canary deployments) results in an average of 50 production releases every day.  
+
+Read more about us on our SSENSE Tech Blog.
