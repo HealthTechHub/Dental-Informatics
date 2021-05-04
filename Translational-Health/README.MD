@@ -26,5 +26,12 @@ info@ncats.nih.gov
 301-435-0888
 ```
 
+# [Instituto de Métricas de Saúde e Avaliação (IHME) - Universidade de Washington](http://www.healthdata.org/)
+# [Personalized health. AWS is how.](https://pages.awscloud.com/NAMER-field-IND-HCLS-Virtual-Symposium-2021-reg-event.html?trk=em_a134p000006vpWQAAY&trkCampaign=AWS_Healthcare_and_Life_Sciences_Virtual_Symposium&sc_channel=em&sc_campaign=NAMER_IND_WEBINAR_hcls-virtual-symposium_20210527_7014z000001gIx3&sc_medium=em_368984&sc_outcome=Field_Marketing&sc_geo=NAMER&sc_country=mult&sc_content=AWS_Event)
+>The era of personalization is here. From the integration of genomics data into pharma R&D, to creating personalized diagnostics tools and therapies, to the delivery of healthcare anywhere, anytime, to those who need it most- AWS is powering the personalization revolution.  
+>
+>Join us for our third annual free event focusing on how healthcare & life science organizations are using cloud technology to power precision medicine, personalize patient journeys, engage more closely with customers, and ultimately improve outcomes. Hear from industry leaders on how they innovate on AWS to power their business and advance their initiatives, across segments such as genomics, biopharma, medical devices, health IT, healthcare providers, and payors.
+
+
 # Intro Translational Science (COURSERA)
 [Intro Translational Science](https://www.coursera.org/learn/intro-translational-science/home/welcome)
