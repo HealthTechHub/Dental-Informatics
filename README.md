@@ -1,4 +1,7 @@
 # Dental-Informatics
+[Guilherme Teles - AWS](https://roadmapnuvem.club.hotmart.com/t)
+https://sparkle.hotmart.com/login/%2Fdownload
+
 Article - https://docs.google.com/document/d/1JMkjfoRMOdDcRJ57uPjMxevifhb0WHwIXr3vlt-xngo/edit#heading=h.vov2a1geps1h
 
 
@@ -9,7 +12,7 @@ Article - https://docs.google.com/document/d/1JMkjfoRMOdDcRJ57uPjMxevifhb0WHwIXr
 
 1. [THE INTERNATIONAL DENTAL SHOW – LEADING TRADE FAIR FOR THE DENTAL INDUSTRY](https://www.english.ids-cologne.de/)
    - [The next IDS](https://www.gfdi.de/index.php?id=24&L=1)
-   
+
 # Health Care Tech Events
 
 1. [Healthcare Sensor Innovations](https://www.idtechex.com/healthcare-sensor-innovations-usa/show/en/)
