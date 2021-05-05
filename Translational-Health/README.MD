@@ -35,3 +35,6 @@ info@ncats.nih.gov
 
 # Intro Translational Science (COURSERA)
 [Intro Translational Science](https://www.coursera.org/learn/intro-translational-science/home/welcome)
+
+# Companies in BioTech
+[Inagene](https://inagene.com/pages/careers)
