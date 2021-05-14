@@ -1,0 +1,1 @@
+[CPHIMS/CAHIMS Exam Application](https://marketplace.himss.org/CertificationExamApplication/Default)

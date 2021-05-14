@@ -75,3 +75,4 @@ The American Medical Informatics Association has reviewed this profile.
 
 # [Dental informatics. A cornerstone of dental practice](https://pubmed.ncbi.nlm.nih.gov/11367964/)
 
+https://www.mydentist.co.uk/patient-information
