@@ -34,13 +34,148 @@
 </p>
 
 
+<p>*************************</p>
+
+<!-- ABOUT THE PROJECT -->
+## About the Dental Informatics Project
+
+I am a dentist, specialized in Social Medicine - <a href="http://www.isc.ufba.br/en/">ISC/UFBA-Brazil 2004</a>, Geoprocessing AND GIS (Geographic Information Systems) - <a href="http://igd.unb.br/">IG/UNB-Brazil 2005</a>, Software development - <a href="https://www.teccart.qc.ca/index.php">TECCART-Canada 2010</a> and Bio-Informtaics - <a href="http://info.uqam.ca/">dIN/UQAM-Canada 2013</a>. It is needless to say that I made health informatics my first choice on my professional path. Health informatics has change a lot around the World, since 2003, when I start to work on it at <a href="https://en.unesco.org/">UNESCO</a> using CGI Perl scripts and  HTML to render real time maps - connected to a COHORT database of nuclear accident patients in order to create spacial analysis and better offer the care they needed. The <a href="https://www.google.com/earth/">Google Earth</a> project was in its embryo steps, cellphones where limited (compared with todays smatphones) and the only way to retrieve lat-long data to insert in a health geo-database was through a Garmin GPSs and many others softwares. During the past 7 years the Machine Learning (ML), Artificial Intelligence (AI) and BioInformatics have intensively unlocked the doors that separate the World of Health Sciences and the Informatics. Today, in 2021, when the World is still facing consequences of the COVID-19 pandemic, and when the humankind economic processes has been hardly affected, health professionals around the planet are giving or putting more attention to informatics and possibilities that can be opened by its usage - from labs to collective healthcare providers, passing across, of course, ours clinical offices and clinical practices. The BioTech companies are testing and developing new approaches and solutions in order to improve the healthcare and facilitate to improve the healthcare providers processes. More than ever there are a lot of opportunities for health professionals to interact with these BioTech companies in order to guide them to create better solutions that can fit as best as possible the professional and patients needs.
+
+It is a new World that require from health professionals, a new way to do older actions and create new processes as well trough the use of new technics and technologies. The train is still running and soon - maybe 5-10 years from now, we will be talking about the "new technologies of the future" - the biosensors integrated with IoT devices and HighSpeed Internet (5G, 6G, 10G, ...). We will be soon integrate to the Economy 4.0 for health and the big question is - Are universities across the World already preparing health professionals for this new way of work process? Are health professionals be an active actor in this change or are they going to be a passive actor. Just to keep this time in perspective, 10 years is only 2 generations of General Dentists or General Physicians. Students that starts now in 2021 and will finish in 2026 and students that will start in 2026 and will finish 2031. Are we (Health professionals) fully prepared to be active actors in these changes?
+
+This is the main goal of this project. I want to centralize subjects related to Dental INformatics, share and Invite peers or anyone that can bring ideas and efforts to help the Dentistry to find a smooth path to integrate the Informatics subjects in the dental science. Informatics is a huge world of subjects and it is easy to be lost. We must to concentrate the time and efforts in order to achieve this goal.
+
+Feels free to request
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should element DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+### Built With
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Node.JS](https://github.com/nodejs)
+* [Serverless](https://github.com/serverless/serverless)
+* [Serverless - Plugins](https://github.com/serverless/plugins)
+* [AWS - Systems Manager (ssm)](https://console.aws.amazon.com/systems-manager/parameters/?region=us-east-1&tab=Table)
+
+### Serverless - Plugins
+In order to install all required `Serverless-Plugins` and `NodeJS-Modules` after clone from `Scican-Ltd
+/
+myscican_dashboard_api_gateway
+`GitHub run:
+```
+npm install
+```
+That will install the following plugins:
+
+* [serverless-iam-roles-per-function](https://github.com/functionalone/serverless-iam-roles-per-function)
+* [serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager)
+
+### Node.Js - Modules
+In order to install all required `Serverless-Plugins` and `NodeJS-Modules` after clone from `Scican-Ltd
+/
+myscican_dashboard_api_gateway
+`GitHub run:
+
+```
+npm install
+```
+
+That will install the following modules:
+
+* [@hapi/joi]()
+* [aws-sdk]()
+* [axios]()
+* [mongodb]()
+* [mysql]()
+* [mysql2]()
+* [pg]()
+* [serverless]()
+* [uuid]()
+*
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Architecture
+[![Web App Architecture][app-architecture]](https://github.com/Scican-Ltd/restful_mqtt_api_yaml)
+* [restful_mqtt_api_documentation](https://github.com/Scican-Ltd/restful_mqtt_api_documentation)
+* [Ec2 - Web App Host](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#InstanceDetails:instanceId=i-092d8bedec5ab75f3)
+* [S3 - authentication-keys-ec2-legacy](https://s3.console.aws.amazon.com/s3/buckets/authentication-keys-ec2-legacy?region=us-east-1&tab=objects)
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
+   ```
 
 
 
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
+<!-- ROADMAP -->
+## Roadmap
 
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Scican-Ltd/restful_mqtt_api_yaml/graphs/contributors
+
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/Scican-Ltd/restful_mqtt_api_yaml/issues
+
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/coltene-whaledent/
+
+[product-screenshot]: docs/img/screenshot.png
+[app-architecture]: docs/img/architecture.png
+
+
+The backend API for the UI-App
+
+The configuration, see: https://console.aws.amazon.com/cognito/users/?region=us-east-1#/pool/us-east-1_5S8wvQFY3/details?_k=r2uz40
+
+<p>*************************</p>
 
 
 
