@@ -1,4 +1,53 @@
-# Dental-Informatics
+
+<h1 align="center">Dental Informatics</h1>
+<h2 align="center">By Dr.Igor Alves
+<a href="https://www.linkedin.com/in/igoralves1/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Logo" width="20" height="20">
+</a>
+</h2>
+<p></p>
+
+<p align="center">
+  <a href="">
+    <img src="https://agd.org/images/default-source/default-album/dentalinformatics.jpg?sfvrsn=e46f5c9f_0" alt="Logo">
+  </a>
+
+
+  <h3 align="center">Dental Informatics | SERVERLESS Repo</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/Scican-Ltd/restful_mqtt_api_yaml"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="http://18.208.186.68/login">View Project</a>
+    ·
+    <a href="">API Documentation</a>
+    ·
+    <a href="https://github.com/Scican-Ltd/myscican_dashboard_api_gateway/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Scican-Ltd/myscican_dashboard_api_gateway/issues">Request Feature</a>
+    ·
+    <a href="https://scican.atlassian.net/browse/MS-122">JIRA Ticket</a>
+  </p>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Guilherme Teles - AWS](https://roadmapnuvem.club.hotmart.com/t)
 https://sparkle.hotmart.com/login/%2Fdownload
 
@@ -75,4 +124,6 @@ The American Medical Informatics Association has reviewed this profile.
 
 # [Dental informatics. A cornerstone of dental practice](https://pubmed.ncbi.nlm.nih.gov/11367964/)
 
-https://www.mydentist.co.uk/patient-information
+
+
+
