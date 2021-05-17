@@ -1,6 +1,6 @@
 
 <h1 align="center">Dental Informatics</h1>
-<h2 align="center">By Dr.Igor Alves
+<h2 align="center">Dr. Igor Alves
 <a href="https://www.linkedin.com/in/igoralves1/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Logo" width="20" height="20">
 </a>
