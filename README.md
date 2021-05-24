@@ -5,13 +5,11 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Logo" width="20" height="20">
 </a>
 </h2>
-<p></p>
 
 <p align="center">
   <a href="">
     <img src="https://agd.org/images/default-source/default-album/dentalinformatics.jpg?sfvrsn=e46f5c9f_0" alt="Logo">
   </a>
-
 
   <h3 align="center">Dental Informatics | SERVERLESS Repo</h3>
 
@@ -43,16 +41,48 @@ I am a dentist, specialized in Social Medicine - <a href="http://www.isc.ufba.br
 
 It is a new World that require from health professionals, a new way to do older actions and create new processes as well trough the use of new technics and technologies. The train is still running and soon - maybe 5-10 years from now, we will be talking about the "new technologies of the future" - the biosensors integrated with IoT devices and HighSpeed Internet (5G, 6G, 10G, ...). We will be soon integrated to the Economy 4.0 for health and the big question is - Are universities across the World already preparing health professionals for this new way of work process? Are health professionals be an active actor in this change or are they going to be a passive actor. Just to keep this time in perspective, 10 years is only 2 generations of General Dentists or General Physicians. Students that starts now in 2021 and will finish in 2026 and students that will start in 2026 and will finish 2031. Are we (Health professionals) fully prepared to be active actors in these changes?
 
-This is the main goal of this project. I want to centralize subjects related to Dental INformatics, share and Invite peers or anyone that can bring ideas and efforts to help the Dentistry to find a smooth path to integrate the Informatics subjects in the dental science. Informatics is a huge world of subjects and it is easy to be lost. We must to concentrate the time and efforts in order to achieve this goal.
+This is the main goal of this project. I want to centralize subjects related to Dental Informatics, share and Invite peers or anyone that can bring ideas and efforts to help the Dentistry to find a smooth path to integrate the Informatics subjects in the dental science. Informatics is a huge world of subjects and it is easy to be lost. We must to concentrate the time and efforts in order to achieve this goal.
 
-Feels free to request
+Feels free to request to join the project.
 
-Here's why:
+It is a work in progress.
+
+These are the main topics os this repository:
+
+1. Dental Office Managment
+   1. DSOs
+   2. KPIs
+   3. Marketing
+2. Healht Informaics Organizations
+   1. AWS - Health
+   2. IBM - Health
+   3. SBIS - Sociedade Brasileira de Informatica em Saude
+3. BioInformatics
+   1. Books
+4. Data Science
+   1. Tutorials
+      1. Python
+         1. [w3schools](https://www.w3schools.com/python/default.asp)
+      2. Pandas
+      3. Dental Dataset
+         1. [California DDS Expenditures](https://www.kaggle.com/wduckett/californiaddsexpenditures)
+         2. [Health Insurance Marketplace](https://www.kaggle.com/hhs/health-insurance-marketplace)
+         3. [Bad teeth, sugar and government health spending](https://www.kaggle.com/angelmm/healthteethsugar)
+         4. [Dataset Dental Panoramic](https://www.kaggle.com/yudhaislamisulistya/dataset-dental-panoramic)
+            1. [STEP BY STEP DENTAL PANORAMIC KNN](https://www.kaggle.com/yudhaislamisulistya/step-by-step-dental-panoramic-knn)
+   2. Data Visualization
+5. Certificates
+   1. [AWS](https://aws.amazon.com/pt/certification/)
+      1.
+   2. HIMSS
+      1. Books
+6. Articles
+7. Epidemiology
+8. Dental BioTech Companies
+
+
+
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 

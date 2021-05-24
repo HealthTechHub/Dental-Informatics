@@ -17,7 +17,7 @@
 >Book Appointments Anywhere, 24-7
 
 [mydentist](https://www.mydentist.co.uk/patient-information)
-[]()
-[]()
+[siemens-healthineers](https://www.corporate.siemens-healthineers.com/)
+[gehealthcare](https://www.gehealthcare.com/)
 []()
 []()

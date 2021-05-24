@@ -10,9 +10,9 @@
 
 [Histogram equalization: Improve the contrast of your image!](https://medium.com/@urveeausekar/histogram-equalization-improve-the-contrast-of-your-image-59748752102b)
 
-[]()
+[Sterelization](https://blog.dentalcremer.com.br/esterilizacao-em-autoclave-quais-embalagens-e-como-realizar/)
 
-[]()
+[itlink](https://itlink.fr/en/)
 
 []()
 

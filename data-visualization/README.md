@@ -1,11 +1,17 @@
-# Data visualization
-
-https://www.data-to-viz.com/
-https://accelerator.weather.com/
+# Data Visualization
 
 
-# Choose your chart (graphic)
-What kind of data do you ***want to display in the chart***?   
+
+[visualcapitalist](https://www.visualcapitalist.com/top-10-strongest-nation-brands/)
+
+
+
+[accelerator.weather](https://accelerator.weather.com/)
+
+## Data-toViz
+[data-to-viz](https://www.data-to-viz.com/)
+### Choose your chart (graphic)
+What kind of data do you ***want to display in the chart***?
 1. Numeric
     * 1.1 - [1 Numeric Variable](https://www.data-to-viz.com/story/OneNum.html)
         * 1.1.1 - HISTOGRAM
@@ -50,13 +56,13 @@ What kind of data do you ***want to display in the chart***?
             * CORRELOGRAM
             * HEATMAP
             * DENDROGRAM
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
 2. Categoric
 3. Numeric and Categoric
 4. Maps
