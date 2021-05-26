@@ -289,6 +289,10 @@ The American Medical Informatics Association has reviewed this profile.
 
 # [Dental informatics. A cornerstone of dental practice](https://pubmed.ncbi.nlm.nih.gov/11367964/)
 
+# TeleOdontologia/TeleMedicina/Telesaude
 
+1. [dqinstitute](https://www.dqinstitute.org/)
+2. [a4ai](https://a4ai.org/)
+3. [a4ai](https://a4ai.org/meaningful-connectivity/)
 
 
